@@ -17,6 +17,7 @@ while game_active == True:
     
     if roll == "Y" or "y":
         response()
+    # This part is not working for some reason, I need to figure it out
     elif roll == "N" or "n":
         quit()
     else:
